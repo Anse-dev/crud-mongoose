@@ -85,17 +85,10 @@ Supprime tous les documents `Person` ayant un nom spécifique.
 
 Chaine les méthodes de requête pour affiner les résultats de la recherche. Trouve les personnes qui aiment les burritos, les trie par nom, limite les résultats à deux documents et cache leur âge.
 
-## Licence
 
-Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
 
 ## Contribuer
 
 Les contributions sont les bienvenues ! Veuillez soumettre une pull request ou ouvrir une issue pour discuter de ce que vous aimeriez changer.
 
-## Auteur
 
-[Votre Nom](https://github.com/votre-utilisateur)
-```
-
-Ce fichier README fournit une description complète du projet, des instructions d'installation et d'utilisation, une explication des fonctions, et des informations sur la contribution et la licence. Assurez-vous de remplacer les sections appropriées par vos propres informations, telles que le lien de votre dépôt GitHub et votre nom.
