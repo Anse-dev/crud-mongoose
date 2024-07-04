@@ -38,7 +38,7 @@ Ce projet utilise Mongoose pour gérer une base de données MongoDB. Il permet d
 Pour exécuter le projet, utilisez la commande suivante :
 
 ```bash
-node server.js
+node app.js
 ```
 
 Cela connectera à la base de données et effectuera plusieurs opérations de gestion de documents.
